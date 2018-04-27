@@ -1,0 +1,26 @@
+{
+  "name": "nikita-tutorial",
+  "version": "0.0.0",
+  "description": "Lean how to use Nikita",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adaltas/node-nikita-tutorial.git"
+  },
+  "keywords": [
+    "nikita",
+    "tutorial"
+  ],
+  "author": "David Worms",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/adaltas/node-nikita-tutorial/issues"
+  },
+  "homepage": "https://github.com/adaltas/node-nikita-tutorial#readme",
+  "dependencies": {
+    "nikita": "^0.6.7"
+  }
+}
