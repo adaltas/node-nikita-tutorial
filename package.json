@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/adaltas/node-nikita-tutorial#readme",
   "dependencies": {
-    "nikita": "^0.6.7"
+    "nikita": "^0.9.3-alpha.10"
   }
 }
