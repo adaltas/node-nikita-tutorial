@@ -4,7 +4,7 @@
   "description": "Lean how to use Nikita",
   "main": "app.js",
   "scripts": {
-    "test": "mocha test/*.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/adaltas/node-nikita-tutorial#readme",
   "dependencies": {
-    "nikita": "^0.9.3-alpha.10"
+    "nikita": "^1.0.0-alpha.1"
   }
 }
